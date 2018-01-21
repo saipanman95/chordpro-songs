@@ -1,0 +1,32 @@
+.chord {
+	font:bold 70% sans-serif;
+	color:blue;
+	padding-right: 1ex;
+	}
+.chordline {
+}
+.lyricsline {
+}
+A.chordlink {
+	text-decoration:none;
+	} 
+A.chordlink:hover {
+	text-decoration:underline;
+	} 
+.comment {
+	color: white;
+	background-color: black;
+	margin-top:1em; padding:0 .5em;
+}
+.chorus {
+	border-left: solid; 
+	padding-left:1ex;
+}
+#chordPopup {
+	position:absolute;
+    border: 1px dashed; 
+	width:100px;
+	height:130px;
+	z-index:1;
+	visibility:hidden;	
+}
