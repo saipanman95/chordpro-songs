@@ -1,6 +1,5 @@
 {title:Alive - Young and Free                 p.1}
 {subtitle: Alexander Pappas, Aodhan King; Hillsong; Copyright - 2012; CCLI #: 6605212}
-{Capo:2}
 {c: Intro:  (2x) }
 [C#m]1  .  .  .   [E]2  .  .  .  [A]3  .  .  .   4   .  .  .   [A]1  .  .  .   [C#m]2  .  .  .   [B]3  .  .  .   4  .  .  .    (repeat)
 {c: Verse 1: } {soh} (Unison & Harmony) {eoh} 

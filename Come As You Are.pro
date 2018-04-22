@@ -1,7 +1,6 @@
 {title:Come As You Are}
 {subtitle:Key Bb}
-{Capo: 3}
-{ipodid:}
+{ipodid:2591394425030326054}
 {st:Ben Glover, David Crowder, Matt Maher}
 {key: Bb}
 

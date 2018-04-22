@@ -7,15 +7,19 @@
 [Dm7]   the God of our salvation [A] set us free!
 [A] Death where is thy sting?  [Em] The curse of sin is broken.  
 [Dm7]    The empty tomb stands open,   [Dm7]come and [E]see!
+{soc}
 {c: Chorus: } {soh} (Unison and Harmondy) {eoh}
 He's [A] alive, alive, [G] alive hallelujah  [D] alive, praise and [C] glory [G] to the [A] lamb
 He's [A] alive, alive, [G] alive hallelujah  [D] alive, [C] forever, [G] [A] amen
+{eoc}
+
 {c: Verse 2: } {soh} (Unison and Harmondy) {eoh}
 [A] Let my heart sing out   [Em]for Christ the one and only,
 [Dm7] so powerful and holy, [A] rescued me!
 [A] Death won't hurt me now,   [Em]  because He has redeemed me!
 [Dm7]   No grave will ever keep me    [Dm7]from my  [E]King!
 {c: Chorus (2x) } {soh} (Unison and Harmondy) {eoh}
+
 {c: Bridge 1: (x2) } {soh} (Unison and Harmondy) {eoh}
 [A] Worthy is the lamb   Worthy of our praise
 [G] Worthy is the One    Who has overcome the grave
@@ -28,9 +32,11 @@ He's [A] alive, alive, [G] alive hallelujah  [D] alive, [C] forever, [G] [A] ame
 [A] Worthy is the One    Who has overcome the grave
 [E7] Let the people dance let the people sing
 [B] Worthy is the mighty King
+
 {c: Chorus:  (2x) } {soh} (Unison and Harmondy) {eoh}
 He's [B] alive, alive, [A] alive hallelujah  [E] alive, praise and [D] glory [A] to the [B] lamb
 He's [B] alive, alive, [A] alive hallelujah  [E] alive, [D] forever, [A] [B] amen
+
 {c: Tag: } {soh} (Unison and Harmondy) {eoh}
 He's [E] alive, [D] forever, [A] [B] amen! He's [E] alive, [D] forever, [A] am[B]en!
 {c: Closing-Bridge-Chorus: } {soh} (lead only) {eoh}

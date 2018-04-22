@@ -22,7 +22,7 @@ There's [Am]rest [G/B]for the  [C]weary [F]Rest that en[C]dures    [F]Earth has
 {c:Chorus} {soh} (Unison & Harmony) {eoh}
 Lay down your [Fmaj7]burdens     Lay down your [C]shame    All who are [Fmaj7]broken    Lift up your [G]face  [Gsus]
 O [G]wanderer, [Fmaj7]come home   You're not too [Am]far    So lay down your [Fmaj7]hurt, lay down your [G]heart
-Come as [Am] you [G/B]are [C] Come as you [F]are    Fall in His [C]arms  Come as you [G]are
+Come as [Am] you [G/B]are   Come as you [F]are    Fall in His [C]arms  Come as you [G]are
 {new_page}
 {title:Come As You Are        P2} 
 {c:Verse 3} {soh} (Unison & Harmony) {eoh}
