@@ -28,8 +28,7 @@ You called my [F2]name and I ran out of that grave [C]
 [C]Out of the [F2]darkness into Your glorious day [C]    
 [C]You called my [F2]name and I ran out of that g[Am7]rave  
 Out of the [F2]darkness into Your glorious  [C]day
-{eoc}
-{new_page}
+{eoc}{new_page}
 {title: Glorius Day - Elevation Worship           P2}
 {c: REPEAT INSTRUMENTAL : }
 [C]1 2 3 4 |  [Csus2]1 2 3 4 |  [C]1 2 3 4 |  [Csus2]1 2 3 4 |  
