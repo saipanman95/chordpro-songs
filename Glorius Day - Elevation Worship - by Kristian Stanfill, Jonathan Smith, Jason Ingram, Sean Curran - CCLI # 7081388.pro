@@ -1,7 +1,10 @@
 {title: Glorius Day - Elevation Worship           P1}
 {subtitle: by Kristian Stanfill, Jonathan Smith, Jason Ingram, Sean Curran - CCLI #: 7081388}
+<<<<<<< HEAD
 {time:6:06}
 {zoom-ipad: 0.983594}
+=======
+>>>>>>> ffcc7bf0d7fb1e916cb1e9e2f59bdb4ae8b42c81
 {BPM: 110}
 {c: Intro: } 
 [C]1 2 3 4 |  [Csus2]1 2 3 4 |  [C]1 2 3 4 |  [Csus2]1 2 3 4 |  

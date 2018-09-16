@@ -16,7 +16,11 @@ I'[C#m]ll set You as a se[A]al,    upon my he[E]art,     as a [F#m]seal upon my 
 [C#m].   .   .    [A].   .   .     [E].   .   .     [F#m].   .   .    (x3) 
 
 {c: Bridge: (Dove’s Eyes Chorus) }
+<<<<<<< HEAD
 [C#m]I don't want to talk about [A]You,     Like You're not in the r[E]oom I want to look right [B]at You,        I want to sing right to Y[C#m]ou (2x's)
+=======
+[C#m]I don't want to talk about [A]You,     Like You're not in the r[E]oom I want to look right [B]at You,        I want to sing right to Y[C#m]ou (3x's)
+>>>>>>> ffcc7bf0d7fb1e916cb1e9e2f59bdb4ae8b42c81
 {soh} —> Verse 1, Verse 2, then Instrumental {eoh}
 {c: Instrumental: }
 [C#m].   .   .    [A].   .   .     [E].   .   .     [F#m].   .   .    (x2)
