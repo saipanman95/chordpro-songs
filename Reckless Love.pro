@@ -2,34 +2,16 @@
 {subtitle: }
 {time: 9:10}
 {c:Verse 1 : }         
-[Am].  Before I spoke a [G]word   You were singing [F2]over me         
-[Am]. You have been s[G]o so  good to m[F]e
-Am                  G
-Before I took a breath you
-F
-breathed your life into me 
-Am               G
-You have been so so 
-F
-kind to me
-Chorus
-Am         G 
-Oh, the overwhelming
-F                   C
-never-Ending, reckless love of God
-Am           G
-Oh it chases me down
-F                     C
-Fights till I'm found leaves the ninety-nine
-Am                      G
-Oh I couldn't earn it, I don't deserve it 
-F                     C
-Still you give yourself away
-Am         G 
-Oh, the overwhelming
-F                C
-never-Ending, reckless love of God
-Verse 
+[Am].  Before I spoke a [G]word   You were singing [F2]over me        [Am]. You have been s[G]o so  good to m[F]e
+[Am]  Before I took a br[G]eath you    breathed your life [F]into me 
+[Am]You have been s[G]o so    kind to [F]me
+{c: Chorus: }
+Oh, the [Am]overwhelming    [G]never-Ending,[F] reckless love of G[C]od
+Oh it c[Am]hases me down    [G]Fights till I'm found [F]leaves the ninety-n[C]ine
+Oh I couldn’t[Am] earn it, I don't de[G]serve it Still you[F] give yourself a[C]way
+Oh, the [Am]overwhelming    [G]never-Ending,[F] reckless love of G[C]od
+
+{c: Verse: }
 Am                G  
 When I was your foe, still
 F

@@ -1,5 +1,6 @@
 {title: Redeemed- Big Daddy Weave}
 {subtitle: Big Daddy Weave}
+{Capo:2}
 {c: Intro: } [E]1  2  3  4  5  6      [A/E]1  2  3  4  5  6      [E]1  2  3  4  5  6      [A/E]1  2  3  4  5  6  
 {c: Verse: }
 [E]Seems like [E/Eb]all I can see was the      [Aadd9]struggle,     [E]Haunted by  [E/Eb]ghosts that lived in my  [Aadd9]past
