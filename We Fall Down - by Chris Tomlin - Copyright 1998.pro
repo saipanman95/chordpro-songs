@@ -1,9 +1,5 @@
 {title: We Fall Down / Hosanna}
 {subtitle:by Chris Tomlin (We Fall Down) - Copyright 1998; Kent Henry (Hosanna)}
-<<<<<<< HEAD
-{time: 5:15}
-=======
->>>>>>> ffcc7bf0d7fb1e916cb1e9e2f59bdb4ae8b42c81
 
 {c: Chorus: }
 [C]We  fall  down,  we [G]lay  our  c[Am]rowns  at  the  [F]feet    of    J[Dm7]esus
