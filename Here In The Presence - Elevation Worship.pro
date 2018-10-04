@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 {title: Here In The Presence - Elevation Worship}
 {subtitle: by Steven Furtick, Chris Brown, Mack Brock - CCLI: #7067560}
-=======
-{title: Here In The Presence - Elevation Worship}
-{subtitle: by Steven Furtick, Chris Brown, Mack Brock - CCLI: #7067560}
->>>>>>> ffcc7bf0d7fb1e916cb1e9e2f59bdb4ae8b42c81
 
 {c: Intro: }
 [G]1 2 [D]3 4 | 1 2 [C] [G] [Em] [D]
