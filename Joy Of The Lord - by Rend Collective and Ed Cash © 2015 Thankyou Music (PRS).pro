@@ -1,10 +1,7 @@
 {title:Joy Of The Lord}
-<<<<<<< HEAD
 {subtitle: by Rend Collective and Ed Cash © 2015 Thankyou Music (PRS) }
 {time: 4:07}
-=======
-{subtitle: by Rend Collective and Ed Cash © 2015 Thankyou Music (PRS) }
->>>>>>> ffcc7bf0d7fb1e916cb1e9e2f59bdb4ae8b42c81
+
 {c: Intro: (x2) }
 [F#m]1    2    3    4    [D]1    2    3    4     [A]1    2    3    4    [A]1    2    3    4
 {c: Verse 1: } {soh} Unison & Harmony {eoh}
