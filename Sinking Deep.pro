@@ -1,5 +1,5 @@
-{title: Sinking Deep}
-{subtitle: }
+{title: Sinking Deep by Aodhan King, Joel Davies}
+{subtitle: 2012 Hillsong Music Publishing, CCLI#: 6605236}
 {c: Intro: }
 [F] // [F/A] // | [F] // [F/A] // | [Bb2] //// [C]
 
@@ -28,3 +28,5 @@ Your [F]love so deep is washing [Gm7]over me
 Your face is [Dm7]all I seek You are my [Bb5]ev'rything
 [F]Jesus Christ You are my [Gm7]one desire
 Lord hear my [Dm7]only cry to know You [Bb]all my life
+
+https://www.youtube.com/watch?v=UruRQwI8pRE
