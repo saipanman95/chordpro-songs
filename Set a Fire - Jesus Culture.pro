@@ -2,6 +2,7 @@
 {subtitle: Jesus Culture}
 {Key:D}
 
+[G]1.. 2.. 3.. 4..
 {c: Verse: }
 [G]No place I'd rather be     [C]No place I'd rather be    
 [Em]No place I'd rather be Than [C]here in your love, 

@@ -6,17 +6,15 @@
 [C] There to my heart was the [F] blood ap - [C] plied; Glory [G] to His [C] Name!
 
 {c: Chorus: }
-[F] Glory to His [C] na-a-ame, glory to His [G] na-a-ame!
+[F] Glory to His [C] na-a-ame, glory to His [D] na-a-ame[G]!
 [C] There to my heart was the [F] blood ap  - [C] plied; Glory [G] to His [C] name!
 
-[Verse 2]
+{c: Verse 2}
 [C] I am so wond -rous -ly [F] saved from [C] sin,
 [C] Je - sus so sweet - ly a - bides with [G] -in;
 [C] There at the cross where He [F] took me [C] in; Glory [G] to His [C] Name!
 
 {c: Chorus: }
-[F] Glory to His [C] na-a-ame, glory to His [G] na-a-ame!
-[C] There to my heart was the [F] blood ap - [C] plied; Glory [G] to His [C] name!
 
 {c: Verse 3: }
 [C] O pre-cious foun -tain that [F] saves from [C] sin,
@@ -24,8 +22,6 @@
 [C] There Je-sus saves me and [F] keeps me [C] clean; Glory [G] to His [C] Name!
 
 {c: Chorus: }
-[F] Glory to His [C] na-a-ame, glory to His [G] na-a-ame!
-[C] There to my heart was the [F] blood ap - [C] plied; Glory [G] to His [C] name!
 
 {c: Verse 4}
 [C] Come to this foun -tain so [F] rich and [C] sweet;
@@ -33,6 +29,4 @@
 [C] Plunge in to- day and be [F] made com [C] -plete; Glory [G] to His [C] Name!
 
 {c: Chorus: }
-[F] Glory to His [C] na-a-ame, glory to His [G] na-a-ame!
-[C] There to my heart was the [F] blood ap - [C] plied; Glory [G] to His [C] name!
 

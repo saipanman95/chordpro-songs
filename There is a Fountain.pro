@@ -17,23 +17,23 @@ And [G]sinners, plunged be-[C]neath that fl[G]ood, Lose all their g[D]uilt-y sta
 The  d[G]y-ing  thief  re-jo[C]iced  to  [G]see  That  [G]foun-tain  in  His d[D]ay;
 And t[G]here may I, though vi[C]le   as   [G]he,  Wash  [G]all my     [D]sins  a - w[G]ay;
 
-{c:Chorus 2:}
+{c:Chorus 2: x2}
 Wash [G]all my   sins    a-[C]way,  Wash  a[G]ll  my   sins   a - [D]way;
 And t[G]here may I, though [C]vile   as   [G]he,   Wash  all    my [D]sins a  - [G]way.
 {eoc}
 
 {c:Verse 3:}
 {soc}
-E'er s[G]ince by faith  I  [C]saw the  s[G]tream  Thy fl[G]ow-ing wounds su[D]p-ply,
-Re -[G]deem- ing love has b[C]een  my   t[G]heme,  And  shall  be   t[D]ill  I  [G]die;
+E'er s[A]ince by faith  I  [D]saw the  s[A]tream  Thy fl[A]ow-ing wounds su[E]p-ply,
+Re -[A]deem- ing love has b[D]een  my   t[A]heme,  And  shall  be   t[E]ill  I  [A]die;
 
 {c:Chorus 4:}
-And [G] shall  be  till  I [C]die,  And  s[G]hall  be  till  I    [D]die;
-Re -[G]deem- ing love has [C]been  my   t[G]heme,  And  sh[G]all  be   t[D]ill  I  d[G]ie.
+And [A] shall  be  till  I [D]die,  And  s[A]hall  be  till  I    [E]die;
+Re -[A]deem- ing love has [D]been  my   t[A]heme,  And  sh[A]all  be   t[E]ill  I  d[A]ie.
 {eoc}
 
 {c:Ending:}
 {soc} 
-Wash [G]all my   sins    a-[C]way,  Wash  a[G]ll  my   sins   a - [D]way;
-Re -[G]deem- ing love has b[C]een  my   t[G]heme,  And  shall  be   t[D]ill  I  [G]die;
+Wash [A]all my   sins    a-[D]way,  Wash  a[A]ll  my   sins   a - [E]way;
+Re -[A]deem- ing love has b[D]een  my   t[A]heme,  And  shall  be   t[E]ill  I  [A]die;
 {eoc}

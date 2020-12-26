@@ -12,4 +12,11 @@ Thou art ex[Em]alted far ab[A]ove all g[D]ods.
 
 
 
+{t: Chorus - I Surrender All }
+{c:Chorus: x2 } 
+[D]I surrender [Em]all,   [A]I surrender [D]all.   [D]All to Thee,    my [D/E]blessed [G]Savior,    [D]I surr[A7]ender [D]all.
+{c:Ending:} {soh} (Start Slowing it down!){eoh}
+[D]All to Thee,   my [D/E]blessed [G]Savior,   [D]I surr[A7]ender   [G]A -  [G/F#]ll   [G/E]       [D]
+
+
 
