@@ -50,3 +50,10 @@ In Your [A] name I come [E] alive to declare Your [F#m] [-] [D] victory
 The [A] resurrected [E] King is resurrecting [D] me
 {c: ending: }
 The [A] resurrected [E] King is resurrecting [D]me (2.3.[F#m]4.1.[E]2.3 .4.[E]1.[D]2.3.[F#m]4.1.[E]2.3.4.)
+
+
+
+
+
+
+

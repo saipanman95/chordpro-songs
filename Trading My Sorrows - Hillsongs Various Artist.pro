@@ -1,4 +1,4 @@
-{title:Trading My Sorrows}
+{title:Trading My Sorrows - Hillsong - Darrel Evans}
 {ipodid:}
 {s:Hillsongs Various Artist} 
 

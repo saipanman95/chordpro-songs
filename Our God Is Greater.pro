@@ -1,22 +1,21 @@
 {title: Our God Is Greater}
 {subtitle: }
-{Capo:4}
 {c: Intro: }
-[G#m] /// | [E] /// | [B] /// | [F#]
+[F#m] /// | [D] /// | [A] /// | [E]
 
 {c: Verse 1: }
-[G#m]Water You [E]turned into [B]wine. [G#m]Opened the [E]eyes of the [B]blind 
-There's no one [C#m7]like You.   None like [F#]You 
+[F#m]Water You [D]turned into [A]wine. [F#m]Opened the [D]eyes of the [A]blind 
+There's no one [Bm7]like You.   None like [E]You 
 
 {c: Verse 2: }
-[G#m]Into the [E]darkness You [B]shine. [G#m]Out of the [E]ashes we [B]rise
-There's no one [C#m7]like You.   None like [F#]You
+[F#m]Into the [D]darkness You [A]shine. [F#m]Out of the [D]ashes we [A]rise
+There's no one [Bm7]like You.   None like [E]You
 
 {c: Chorus: }
-[G#m]Our God is greater. [E]Our God is stronger
-[B]God, You are higher than [F#]any other     [G#m]Our God is Healer 
-[E]Awesome in power.  [B]Our God.   Our [F#]God 
+[F#m]Our God is greater. [D]Our God is stronger
+[A]God, You are higher than [E]any other     [F#m]Our God is Healer 
+[D]Awesome in power.  [A]Our God.   Our [E]God 
 
 {c: Bridge: }
-[G#m]And if our God is for us.  [E]Then who could ever stop us
-[B]And if our God is with us.  [F#sus]Then what could stand against
+[F#m]And if our God is for us.  [D]Then who could ever stop us
+[A]And if our God is with us.  [Esus]Then what could stand against
